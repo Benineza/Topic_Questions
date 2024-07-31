@@ -13,4 +13,5 @@ int main()
 	{
 		cout<<"Odd number";
 	}
+	// good job
 }
